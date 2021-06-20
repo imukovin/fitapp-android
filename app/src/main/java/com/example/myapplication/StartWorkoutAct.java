@@ -119,11 +119,11 @@ public class StartWorkoutAct extends AppCompatActivity {
                 {
                     id++;
                     cnt++;
-                    if (cnt == 4)
+                    if (cnt == 5)
                     {
-                        Intent a = new Intent(StartWorkoutAct.this, MainWorkAct.class);
-                        a.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
+                        Intent a = new Intent(StartWorkoutAct.this, EndWorkout.class);
                         countDownTimer.cancel();
+                        finish();
                         startActivity(a);
                     }
                     else

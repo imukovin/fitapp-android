@@ -47,7 +47,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:layout_marginStart="24dp"
-                android:text="@string/fit_start_work_subintropage"
                 android:textColor="@color/dark_gray"
                 android:textSize="18sp"
                 android:lineSpacingExtra="8dp"
@@ -83,7 +82,6 @@
                         android:id="@+id/fitonetitle"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/fit_workout_jump_rise"
                         android:textColor="@color/white"
                         android:textSize="20sp" />
 
@@ -92,7 +90,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="@string/fit_workout_jump_rise_desc"
                         android:textColor="@color/dark_gray"
                         android:textSize="16sp" />
                 </LinearLayout>

@@ -15,21 +15,12 @@
     <string name="fit_main_work_scretch">Растяжка</string>
     <string name="fit_main_work_yoga">Йога</string>
 
-
-    <string name="fit_workout_titlepage">Кардио</string>
-    <string name="fit_workout_subtitlepage">Кардио - это ...</string>
+    <string name="fir_end_workout_titlepage">Поздравляем</string>
+    <string name="fir_end_workout_subtitlepage">Вы завершили тренировочный процесс. На сегодня достаточно</string>
+    <string name="fir_end_workout_bnt">К тренировкам</string>
     <string name="fit_workout_start_now">НАЧАТЬ</string>
-    <string name="fit_workout_jump_rise">Jump Rise</string>
-    <string name="fit_workout_jump_rise_desc">от 4 до 5 минут</string>
-    <string name="fit_workout_butterfly_cut">Butterfly Cut</string>
-    <string name="fit_workout_butterfly_cut_desc">от 4 до 5 минут</string>
-    <string name="fit_workout_lay_back">Lay Back</string>
-    <string name="fit_workout_lay_back_desc">от 4 до 5 минут</string>
-    <string name="fit_workout_scissors">Scissors X</string>
-    <string name="fit_workout_scissors_desc">от 4 до 5 минут</string>
-    
+
     <string name="fit_start_work_intropage">Как выполнять</string>
-    <string name="fit_start_work_subintropage">Simple kicking the text of content....</string>
     
     <string-array name="name">
         <item>Отведение ног</item>
