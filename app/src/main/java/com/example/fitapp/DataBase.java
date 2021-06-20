@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.fitapp;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -27,7 +27,7 @@ public class DataBase extends SQLiteOpenHelper {
             values.put("id", i);
             values.put("name", names[i]);
             values.put("description", desc[i]);
-            values.put("time", 0.1);
+            values.put("time", 1);
             values.put("img", imgs[i]);
             values.put("type", type);
             db.insert("train", null, values);

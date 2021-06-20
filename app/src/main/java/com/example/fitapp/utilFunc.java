@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.fitapp;
 
 import static java.lang.Math.abs;
 
